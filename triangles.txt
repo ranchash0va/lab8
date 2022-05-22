@@ -1,0 +1,19 @@
+Triangle 1
+Length of three sides: 5.0 5.0 5.0
+Corners: 0.5 0.5 0.5
+Perimetr:15.0
+Square:12.5
+____________________________
+Triangle 2
+Length of three sides: 5.0 5.0 5.0
+Corners: 0.5 0.5 0.5
+Perimetr:15.0
+Square:12.5
+Triangle 3
+Length of three sides: 5.0 5.0 55.0
+Corners: 5.5 -59.5 5.5
+Perimetr:65.0
+Square:12.5
+Largest square:12.5
+Largest square:12.5
+Largest square:12.5
